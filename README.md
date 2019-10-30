@@ -27,6 +27,8 @@ Create Environment (Optional): Ideally, you should create an environment for the
 ```bash
 conda create -n mimo python=3.6
 
+mkdir predicts
+
 conda activate mimo
 
 pip install -r requirments.txt
