@@ -29,6 +29,10 @@ conda create -n mimo python=3.6
 
 mkdir predicts
 
+mkdir results
+
+mkdir models
+
 conda activate mimo
 
 pip install -r requirments.txt
